@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-refresh-jwt",
+  "version": "0.1.0",
+  "description": "Nuxt.js module to refresh JWT tokens",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Kamenka",
+  "license": "MIT",
+  "homepage": "https://github.com/dkamenka/nuxt-refresh-jwt",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkamenka/nuxt-refresh-jwt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkamenka/nuxt-refresh-jwt/issues"
+  }
+}
